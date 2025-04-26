@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/4
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhvYW5nY2xvbmVAZ21haWwuY29tIiwiZXhwIjoxNzQzNjQ1MTMwLCJ1c2VySWQiOjN9._ihmhi3tTomV-y3kuDps7hRsLkC4q-j4f0YCNREH4q4
+
+{
+  "name": "Skibidi",
+  "description": "cay quai et",
+  "location": "Your mama",
+  "datetime": "2025-06-20T15:30:00Z"
+}

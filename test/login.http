@@ -1,0 +1,13 @@
+POST http://localhost:8080/sign-in
+Content-Type: application/json
+
+
+# {
+#     "email": "hoangclone@gmail.com",
+#     "password": "daylazim123"
+# }
+
+{
+    "email": "z1ml3w1s123@gmail.com",
+    "password": "daylazim123"
+}

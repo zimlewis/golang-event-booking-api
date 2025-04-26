@@ -1,0 +1,10 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhvYW5nY2xvbmVAZ21haWwuY29tIiwiZXhwIjoxNzQzNjQ4NDM4LCJ1c2VySWQiOjF9.Dlqo3-965GgQDKNSYqdHtS7ljq_pbrxfUmJCEt7vCJs
+
+{
+    "name": "Me May Beo",
+    "description": "cay quai et",
+    "location": "Your mama",
+    "datetime": "2025-05-20T15:30:00.000Z"
+}
